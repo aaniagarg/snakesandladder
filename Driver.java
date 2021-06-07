@@ -75,9 +75,5 @@ public class Driver extends JFrame /*implements ActionListener*/{
             }
         });
 
-       
-
     }
-
-
 }
